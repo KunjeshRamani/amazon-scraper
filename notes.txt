@@ -1,1 +1,3 @@
 pip install requests bs4
+
+generate a password from Google App Password
