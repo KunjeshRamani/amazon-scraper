@@ -1,2 +1,0 @@
-Amazon = yes
-Best Buy Canada = no, Best Buy Canada's current Conditions of Use explicitly prohibit scraping/data-mining without permission.
